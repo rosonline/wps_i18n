@@ -5,11 +5,11 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Consulta avançada</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
@@ -37,34 +37,34 @@
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ex&amp;cluir da lista</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você fez alterações para &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Outro usuário também realizou alterações. O que deseja fazer?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Descartar para desfazer as alterações e editar a versão mais recente.</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Salvar Como para armazenar a edição em um arquivo diferente e abrir a versão mais recente.</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Descartar</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salvar Como</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -101,50 +101,50 @@
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passo #01: Selecionar dados da fonte</translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecionar dados da fonte</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Abrir arquivo de dados diretamente.</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar guia de conexão OBDC data source (W) </translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Selecionar Fonte de Dados</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inserir &amp;sequência de conexão manualmente</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Explicação</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você pode escolher três maneiras diferentes para conectar à fonte de dados escolhida.</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restrição</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referência de C&amp;élulas:</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CRes&amp;trição:</translation>
     </message>
     <message>
         <source>&lt;=</source>
@@ -176,22 +176,22 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Cancelar</translation>
     </message>
 </context>
 <context>
     <name>DisplayResult</name>
     <message>
         <source>Show Trial Solution</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar solução de Teste</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Continuar</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Parar</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -222,7 +222,7 @@
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se você abrir um novo arquivo, as alterações no arquivo atual serão eliminadas:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -233,11 +233,11 @@
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%s&quot; está disponível para edição.</translation>
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique em Read-Write para abrí-lo para edição.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
@@ -252,15 +252,15 @@
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passo #03: Filtragem de dados e organização</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenamento</translation>
     </message>
     <message>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pela</translation>
     </message>
     <message>
         <source>In</source>
@@ -268,19 +268,19 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro</translation>
     </message>
     <message>
-        <source>Field type:</source>
+        <source>Tipo de campo:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Advanced Query...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Consulta Avançada...</translation>
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inserir declaração de query &amp;consulta diretamente</translation>
     </message>
     <message>
         <source>Explanation</source>
